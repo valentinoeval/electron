@@ -1,2 +1,2 @@
-# electron
+# Electron
 Project to test Electron
