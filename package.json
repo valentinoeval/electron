@@ -1,0 +1,19 @@
+{
+    "name": "electron",
+    "version": "0.0.1",
+    "description": "Project to test Electron",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/valentinoeval/electron.git"
+    },
+    "author": "valentinoeval",
+    "license": "CC0-1.0",
+    "homepage": "https://github.com/valentinoeval/electron#readme",
+    "devDependencies": {
+        "electron-prebuilt": "^0.36.0"
+    }
+}
