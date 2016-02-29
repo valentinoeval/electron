@@ -2,9 +2,9 @@
     "name": "electron",
     "version": "0.0.1",
     "description": "Project to test Electron",
-    "main": "main.js",
+    "main": "index.js",
     "scripts": {
-        "start": "electron main.js"
+        "start": "electron index.js"
     },
     "repository": {
         "type": "git",
