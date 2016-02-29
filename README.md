@@ -1,2 +1,2 @@
 # electron
-Projet to test electron
+Project to test Electron
